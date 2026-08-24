@@ -2,7 +2,7 @@
 
 [Русский](#русский) | [English](#english)
 
-**Version / Версия:** `0.7.5`  
+**Version / Версия:** `0.7.8`  
 **Plugin / Плагин:** `GraphicMods.dll`  
 **Для / For:** [Casualties: Unknown](https://store.steampowered.com/app/4576510/) Demo · Unity 2022.3 URP 2D
 
@@ -62,6 +62,10 @@
    GraphicMods by Staili v0.6.0 loaded
    ```
 5. Меню **Настройки → Mods → GraphicMods** с **QoL.Unknown**, иначе `BepInEx\config\staili.casualties.graphicmods.cfg`.
+
+REQ:
+https://www.nexusmods.com/scavprototype/mods/341
+https://www.nexusmods.com/scavprototype/mods/7
 
 ## Если «не работает»
 
@@ -137,6 +141,10 @@ In multiplayer **everyone needs GraphicMods 0.6+ and the same Physics sliders**.
 3. For DLSS: copy `Native\*.dll` next to the exe.
 4. Launch → log shows `GraphicMods by Staili v0.6.0 loaded`.
 5. Settings via QoL **Mods → GraphicMods** or the BepInEx config file.
+
+REQ:
+https://www.nexusmods.com/scavprototype/mods/341
+https://www.nexusmods.com/scavprototype/mods/7
 
 ## Release contents
 
