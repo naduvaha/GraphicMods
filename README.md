@@ -2,7 +2,7 @@
 
 [Русский](#русский) | [English](#english)
 
-**Version / Версия:** `0.7.0`  
+**Version / Версия:** `0.7.5`  
 **Plugin / Плагин:** `GraphicMods.dll`  
 **Для / For:** [Casualties: Unknown](https://store.steampowered.com/app/4576510/) Demo · Unity 2022.3 URP 2D
 
